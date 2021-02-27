@@ -1,0 +1,9 @@
+if
+elif
+else
+
+print()
+input()
+
+=       => assignment operator
+==      => equality comparision operator
