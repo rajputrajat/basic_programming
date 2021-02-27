@@ -1,0 +1,59 @@
+() => parentheses
+[] => square brackets
+{} => curly braces
+
+PYTHON PROGRAMMING LANGUAGE / SCRIPTING 
+---------------------------------------
+print() => prints whatever given in parentheses ()
+    - print("hello") => hello
+    - print(100)     => 100
+
+* Code
+* source Code
+* script
+
+DATA TYPES:
+-----------
+12400   -3434       0   => integer                 => int
+0.3434  -34343.4    0.0 => floating number         => float
+'my name'               => string of characters    => string
+"a word"                => string of characters    => string
+'''another'''           => string of characters    => string
+[]                      => array / list
+[2, 4, 2234, -4242]     => list of ints
+[1.2, -0.0003, 3.9]     => list of floats
+['yo', 'wo', 'lo']      => list of strings
+{1: "hey", 2: "hello"}  => dictionary            => dict
+{key: value, key1: value1, key2: value2}
+
+CONDITION:
+----------
+if
+elif
+else
+
+#*****************************************
+
+name = 'Vinod'
+if name == 'Vinay':
+    print('hi vinay')
+elif name == 'Shubham':
+    print('where is Vinay, Shubham?')
+else:
+    print('kahan hain donon kaam-chor')
+
+#*****************************************
+
+temp = read_temperature()
+if temp <= 20.0:
+    turn_on_heater()
+elif temp >= 30.0:
+    turn_on_fan()
+elif temp >= 35.0:
+    turn_on_air_conditioner()
+else:
+    turn_on_tv()
+going_to_sleep()
+
+#*****************************************
+

@@ -1,0 +1,38 @@
+file.txt => text file
+file.mp4  => video file
+file.mp3, file.m4a => audio file
+file.pdf => portable document file
+
+file.py => python script file
+file.c => C language file
+file.cpp => C++ language file
+file.h => C language header file
+file.rs => Rust language file
+file.java => Java language file
+file.js => Java Script language file
+file.cs => C sharp language file
+
+file.bat => batch scripting file
+file.ps1 => powershell scripting file
+file.sh => shell scripting file
+
+file.exe => Windows executable file / program
+
+file.jpg => image file
+file.png => image file
+file.bmp => image file
+
+file.doc => Microsoft Word
+file.xls => Microsoft Excel
+file.ppt => Microsoft Powerpoint 
+
+file.zip => zip/unzip program 
+file.7z => zip/unzip special 7zip program
+
+file.db => database file
+
+file.html => web page file
+file.json => text info storage
+file.xml => text info storage
+file.yml => text info storage
+file.toml => text info storage

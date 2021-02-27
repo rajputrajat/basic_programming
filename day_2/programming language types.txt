@@ -1,0 +1,4 @@
+Type of programming languages:
+------------------------------
+- compiled language
+- interpreted language
