@@ -1,0 +1,14 @@
+1 -- 100
+
+========================================
+WHILE LOOP:
+-----------
+other code 0
+while (condition):
+    code line 1
+    code line 2
+    code line 3
+other code 1
+other code 2
+
+========================================
