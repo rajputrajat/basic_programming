@@ -1,4 +1,4 @@
-write a progam which takes a value from user and sum the numbers from 1 to that number.
+write a program which takes a value from user and sum the numbers from 1 to that number.
 
 for example:
 if user enters number 5, then your program should add 1 to 5 numbers, i.e. answer would be 15.
