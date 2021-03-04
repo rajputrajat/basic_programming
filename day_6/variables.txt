@@ -1,0 +1,47 @@
+lhs = rhs
+
+============
+keywords => program language specific 
+    - while
+    - if, else, elif
+    - def
+
+user defined names => 
+    - variable
+    - function name
+    - class names
+
+VARIABLE-
+---------
+x = 100      =>     x is variable
+var = 'abc'  =>     var is variable
+abc = 10.3   =>     abc is variable
+a_variable_of_very_large_name = [1, 2, 3]   => a_variable_of_very_large_name is a variable
+
+variable = value
+variable1 = variable2
+
+Rule for variable names:
+------------------------
+1. variable name cannot have space in it
+2. cannot have special characters
+3. can have alphanumeric values
+    -> alphabets
+    -> numbers
+4. names must start with alphabet
+
+valid variable names:
+---------------------
+abc, z, l34r334353, a_____, asflsfslfjs, a_b_c_d
+
+invalid name:
+-------------
+123, 1var1, a var, var-1, var@some, #afaf
+
+Further Notes:
+-------------
+- we can use same variable names to store different type of values
+    x = 100
+    print(x) => 100
+    x = 'a string'
+    print(x) => a string
