@@ -1,0 +1,29 @@
+Q1.
+- take an number as input
+- if number is odd => print number is odd that many times
+- else print number is even again that many times
+
+Q2.
+- take a number
+- print that number that many times
+e.g. for 4, print
+4
+4
+4
+4
+
+Q3.
+- take a number
+- print 1 to that number in each line
+e.g. for 3, print
+1
+2
+3
+
+Q4.
+- take a number
+- print that number to 1 in each line
+e.g. for 3, print
+3
+2
+1
