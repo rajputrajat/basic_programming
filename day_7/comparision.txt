@@ -1,0 +1,42 @@
+datatype:
+---------
+boolean
+    -> True     -> 1
+    -> False    -> 0
+
+abc = True
+sz = False
+
+conditions:
+-----------
+==          => equality sign
+!=          => inequality sign, not equal to
+>           => greater than
+<           => less than
+>=          => greater than or equal to
+<=          => less than or equal to
+
+and         => True if both sides have True, else otherwise
+or          => True if any of the sides have True, else otherwise
+
+sample code
+-----------
+a = 5 != 6              => True
+b = 'ab' == 'ba'        => False
+c = 'ad' != 'AD'        => True
+d = 45 > 54             => False
+e = '1000000' < '2'     => True
+f = True != False       => True
+g = a != c              => False
+h = (e == b) != c       => True
+i = e == (b != c)       => True
+j = 49
+k = 34
+l = k <= j              => True
+m = (2 * k) <= j        => False
+n = j <= (k + 15)       => True
+o = (g == h) == m       => True
+p = m and n             => False
+q = l or (i != p)       => True
+r = p and (i == (m != (n == i)))    => False
+s = o or (i != (p == (m != i)))     => True
