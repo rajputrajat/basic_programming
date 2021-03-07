@@ -1,0 +1,7 @@
+INTEREST CALCULATION:
+- take input for "current balance"
+- take input for "interest rate" annual percentage
+- take input for "duration" in years
+output "interest" and "final amount" (with interest)
+
+print('x' + 'y')
