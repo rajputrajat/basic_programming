@@ -1,0 +1,19 @@
+Q. Your program is a calculator.
+- first input is "operation"
+    - sum
+    - div
+    - sub
+    - mul
+- second and third inputs are numbers for that operation
+- output will be printed
+
+example:
+which operation: sub
+first number: 100
+second number: 50
+result: 50
+
+which operation: div
+first number: 100
+second number: 50
+result: 2

@@ -1,0 +1,23 @@
+code ...
+if RESULT_OF_CONDITION:
+    code ...
+    code ...
+    code ...
+else:
+    code ...
+    code ...
+code ...
+
+CODITION:
+---------
+result of which is a boolean
+=> True / False
+
+==
+!=
+>
+>=
+<
+<=
+or
+and
