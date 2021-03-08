@@ -7,3 +7,5 @@ elif days == 30:
     print("apr, jun, sep, nov")
 else:
     print("invalid input")
+
+a = input("doesn't matter")
