@@ -1,0 +1,40 @@
+1. calculate cost of shopping:
+- take input, total number of fruits bought
+
+- take name of first fruit
+- take it's rate
+- take it's weight
+
+- take name of second fruit
+- take it's rate
+- take it's weight
+
+- take name of third fruit
+- take it's rate
+- take it's weight
+...
+...
+- take name of nth fruit
+- take it's rate
+- take it's weight
+
+- print total expenditure
+
+
+example:
+---------
+> how many fruits did you buy today: 3
+
+name of fruit: orange
+how much orange did you buy: 1.5
+cost of orange rs/kg: 35
+
+name of fruit: grapes
+how much grapes did you buy: 0.5
+cost of grapes rs/kg: 50
+
+name of fruit: papaya
+how much grapes did you buy: 2.5
+cost of grapes rs/kg: 40
+
+you spent: 230 Rs
