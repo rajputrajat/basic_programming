@@ -1,0 +1,19 @@
+- print characters n number of times
+------------------------------------
+
+- take input, how many times
+- which character to print
+
+example
+-------
+======================================
+> which character: R
+how many times: 10
+
+RRRRRRRRRR
+======================================
+> which character: #
+how many times: 6
+
+######
+======================================
