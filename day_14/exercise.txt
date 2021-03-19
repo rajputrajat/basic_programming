@@ -1,0 +1,6 @@
+- Print following series
+10
+20
+..
+..
+500
