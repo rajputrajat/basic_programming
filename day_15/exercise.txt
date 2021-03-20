@@ -1,0 +1,9 @@
+Q1. take input number and add all numbers starting from 1 to that number.
+e.g.
+> input: 5
+sum: 15
+> input: 4
+sum: 10
+> input: 3
+sum: 6
+
