@@ -1,9 +1,20 @@
 Q1. take input number and add all numbers starting from 1 to that number.
 e.g.
+
 > input: 5
 sum: 15
+
 > input: 4
 sum: 10
+
 > input: 3
 sum: 6
 
+> input: 0
+sum: 0
+
+> input: 1
+sum: 1
+
+> input: 10
+sum: 55
