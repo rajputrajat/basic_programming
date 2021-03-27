@@ -9,3 +9,8 @@
 
 * create a list of numbers
 * print largest number
+
+### find largest odd number in a list
+
+* take this list: [1, 4, 0, -12, 107, 80, 200, 41, 20]
+* print largest odd number
