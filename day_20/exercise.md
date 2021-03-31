@@ -13,3 +13,6 @@
 
 * list = ['hi', 'bye', 'kya hai', 'naa hai', '', ' jayen']
 * print smallest and largest
+* NOTE: string length is find out using len(a_string)
+        str = 'somethings'
+        len(str) ==> 10
