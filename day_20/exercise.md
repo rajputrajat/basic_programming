@@ -8,3 +8,8 @@
 
 * list = [-2, 10, 54, 38, 23, 101]
 * print sum of even numbers
+
+### find lengthest and smalledst strings in a list
+
+* list = ['hi', 'bye', 'kya hai', 'naa hai', '', ' jayen']
+* print smallest and largest
