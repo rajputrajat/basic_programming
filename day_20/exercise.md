@@ -9,9 +9,9 @@
 * list = [-2, 10, 54, 38, 23, 101]
 * print sum of even numbers
 
-### find lengthest and smalledst strings in a list
+### find largest and smallest length strings in a list
 
-* list = ['hi', 'bye', 'kya hai', 'naa hai', '', ' jayen']
+* list = ['hi', 'bye', 'kya hai', 'naa hai bhai', 'z', ' jayen']
 * print smallest and largest
 * NOTE: string length is find out using len(a_string)
         str = 'somethings'
