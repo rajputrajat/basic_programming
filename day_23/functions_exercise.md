@@ -1,7 +1,7 @@
-### write a function which returns middle value of a list
+## 1. function which returns middle value of a list
 
 ```python
-middle = custom_func([1, 2, 3, 4, 5])
+middle = custom_func([10, 200, 3, 4, 5])
 print(middle) => 3
 
 mid1 = custom_func([1, 2, 3, 4])
