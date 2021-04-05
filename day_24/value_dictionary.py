@@ -1,6 +1,6 @@
 # DICTIONARY data structure
 # key - value pairs
-# also called MAP in opther programming languages
+# also called MAP in other programming languages
 # also called just - dict => type
 
 addresses = {
