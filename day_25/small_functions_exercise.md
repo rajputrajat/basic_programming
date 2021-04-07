@@ -16,3 +16,4 @@
 * e.g.
     1. user inputs => 10, function returns => 10.0
     2. user inputs => 45, function returns => 45.0
+    3. user inputs => 40.1, function returns => 40.1
