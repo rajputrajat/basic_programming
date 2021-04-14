@@ -17,4 +17,6 @@ assert(new_str_2 == ' example')
 new_str_3 = remove_first_chars('hello world', 9)
 assert(new_str_3 == 'ld')
 
+assert('tive' == 'pynative'[4:]) # <= slicing
+
 print('all good')
