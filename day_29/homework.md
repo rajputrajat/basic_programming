@@ -4,11 +4,11 @@
 
 * e.g.
 
-    1. input = 5
+    1. input = 5,
        output = '55555'
 
-    2. input = 6
+    2. input = 6,
        output = '666666'
 
-    3. input = 2
+    3. input = 2,
        output = '22'
