@@ -4,8 +4,16 @@
 #         number is 120 => return False
 # assert(is_magic_number(121) == True)
 
-a = 'true'
-a_l = list(a)
-print(a_l)
-a_l.reverse()
-print(a_l)
+def is_magic_number(num: int) -> bool:
+    nums: str = str(num)
+    numl: list = list(nums)
+    origl = numl.copy()
+    numl.reverse()
+    return origl == numl
+
+assert(is_magic_number(121) == True)
+assert(is_magic_number(1001) == True)
+assert(is_magic_number(12221) == True)
+assert(is_magic_number(1222) == False)
+
+print('passed')
