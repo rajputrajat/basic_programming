@@ -2,6 +2,7 @@ import turtle
 
 turtle.color('orange')
 turtle.speed(1)
+turtle.pensize(5)
 
 while True:
     turtle.clear()
